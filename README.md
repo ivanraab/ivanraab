@@ -41,6 +41,6 @@ Extensive experience migrating massive datasets (SAP, MongoDB) to AWS environmen
 ---
 
 ### 📫 Connect with me
-- **LinkedIn:** [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)
+- **LinkedIn:** [linkedin.com/in/ivanraab](https://www.linkedin.com/in/ivanraab/)
 
 *"Expert in building APIs and Cloud Native architectures, focusing on scalability, security, and operational efficiency."*
