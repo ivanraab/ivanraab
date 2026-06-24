@@ -1,14 +1,14 @@
 # Hi there, I'm Ivan! 👋
 
 ### Backend Engineer & Data Specialist
-I am a software developer focused on building scalable, high-performance backend systems. Currently, I specialize in **Java with Spring Boot** and **Cloud Native architectures on AWS**, transitioning my deep experience in Data Engineering into robust backend solutions.
+I am a software developer focused on building scalable, high-performance backend systems. Currently, I specialize in  **Cloud Native architectures on AWS**, transitioning my deep experience in Data Engineering into robust backend solutions.
 
 ---
 
 ### 🛠 Tech Stack
 
 **Languages & Frameworks**
-- **Backend:** Java (Spring Boot), Python (Django - Fastapi - Pyspark)
+- **Backend:** Python (Django - Fastapi - Pyspark)
 - **Data:** Spark, Airflow, SQL (PostgreSQL, Redshift, Teradata)
 
 **Cloud & DevOps (AWS)**
@@ -43,4 +43,4 @@ Extensive experience migrating massive datasets (SAP, MongoDB) to AWS environmen
 ### 📫 Connect with me
 - **LinkedIn:** [linkedin.com/in/ivanraab](https://www.linkedin.com/in/ivanraab/)
 
-*"Expert in building APIs and Cloud Native architectures, focusing on scalability, security, and operational efficiency."*
+*Expert in building APIs and Cloud Native architectures, focusing on scalability, security, and operational efficiency.*
